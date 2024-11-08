@@ -1,4 +1,4 @@
-import amjadiftikhar from "./amjadiftikhar.png";
+import amjadiftikhar from "/src/assets/amjadiftikhar.png";
 import profilePic from "./profilePic.jpg";
 import quotes from "./quotes.svg";
 import send from "./Send.svg";
