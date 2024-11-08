@@ -1,4 +1,5 @@
-import amjadiftikhar from "/src/assets/amjadiftikhar.png";
+// import amjadiftikhar from "./amjadiftikhar.png";
+const amjadiftikhar = new URL('./amjadiftikhar.png', import.meta.url).href;
 import profilePic from "./profilePic.jpg";
 import quotes from "./quotes.svg";
 import send from "./Send.svg";
