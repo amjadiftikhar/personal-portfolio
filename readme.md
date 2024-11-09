@@ -1,6 +1,6 @@
 <h1 align="center"> Personal Portfolio </h1>
 
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/9bfaada3-f4df-430d-b1b1-2c868e29cdfd">
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/349d1f7c-a3da-4426-ba1a-586689cbeea1">
 
 ### Deployed link: https://amjadiftikhar.com/
 
