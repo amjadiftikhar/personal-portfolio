@@ -366,7 +366,7 @@ export const projects = [
   ,
   {
     id: "project-1",
-    title: "Automation Tool (Quote Caculator)",
+    title: "Automation Tool (Quote Calculator)",
     link: "https://watts.dk",
     image: andel,
     content: "Developed a quote calculator tool to streamline solar panel installation, automating quote generation for improved efficiency and accuracy.",
