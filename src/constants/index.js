@@ -64,7 +64,7 @@ import {
 
 import { DiCss3 } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1VXiTVqqkNA3oj8Qzt37Os_3PIKPEKM86/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1H6Usvd4bA5o5C44Frukfh3O4xPzJ3oxt/view?usp=sharing";
 export const repoLink = "https://github.com/amjadiftikhar/personal-portfolio";
 
 export const callToLinkedin = "https://www.linkedin.com/in/amjadiftikhar/";
@@ -528,7 +528,7 @@ export const projects = [
     id: "project-5",
     title: "Smart Developers",
     github: "https://github.com/amjadiftikhar/smart-developers",
-    link: "https://www.smartdeveloper.dk/",
+    link: "https://smartdevelopers.dk/",
     image: smartdevelopers,
     content:
       "Developed a React application for Smart Developers, a company dedicated to delivering exceptional software solutions and user experiences.",
