@@ -492,7 +492,6 @@ export const projects = [
     id: "project-4",
     title: "MobilTilbud",
     github: "https://github.com/amjadiftikhar-zz/mobiletilbud",
-    link: "https://github.com/amjadiftikhar-zz/mobiletilbud",
     image: mobilTilbud,
     content:
       "Front-end developer for MobilTilbud, a Python/Django application focused on delivering a seamless user experience and supporting real-time project capabilities.",
@@ -569,7 +568,6 @@ export const projects = [
     id: "project-6",
     title: "Meal Sharing Application",
     github: "https://github.com/amjadiftikhar-zz/myProjects",
-    link: "https://github.com/amjadiftikhar-zz/myProjects",
     image: mealsharing,
     content:
       "Built a meal-sharing app with MySQL, enabling users to reserve meals, submit reviews, and explore available dining options.",
@@ -646,7 +644,6 @@ export const projects = [
     id: "project-8",
     title: "Github Lookup",
     github: "https://github.com/amjadiftikhar/github_users",
-    link: "https://github.com/amjadiftikhar/github_users",
     image: Github,
     content:
       "Created a React application for searching GitHub user information, utilizing React, TypeScript, and API integration.",
@@ -667,7 +664,6 @@ export const projects = [
     id: "project-9",
     title: "Movie Catalogue",
     github: "https://github.com/amjadiftikhar-zz/movie-app",
-    link: "https://github.com/amjadiftikhar-zz/movie-app",
     image: movieCatalog,
     content:
       "Developed a movie catalog app using the Star Wars API, showcasing movie and character data with JavaScript and React.",
