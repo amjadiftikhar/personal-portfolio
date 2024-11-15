@@ -35,7 +35,7 @@ const App = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.75, delay: 0.5 }}
           >
-            <div className={`${styles.paddingX} ${styles.flexCenter} fixed top-0 left-0 right-0 z-50 bg-primary`}>
+            <div className={`${styles.paddingX} ${styles.flexCenter} top-0 left-0 right-0 z-50`}>
               <div className={`${styles.boxWidth}`}>
                 <Navbar />
               </div>
